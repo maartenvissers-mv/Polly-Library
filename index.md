@@ -160,7 +160,7 @@ To determine the behavior of this policy, states are used. Depending on the conf
 - **Open**: The fault state where no requests and responses can go in and out.
 - **Half Open:** The test state where, depending on the first upcoming result, it is determined whether the state changes back to Closed or Open.
 
-![image-20220104074814788](C:\Users\Maarten.Vissers\AppData\Roaming\Typora\typora-user-images\image-20220104074814788.png)
+![image-20220104074814788](states-circuit-braker.png)
 
 ##### Example Of States
 
